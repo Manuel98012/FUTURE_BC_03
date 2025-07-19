@@ -1,0 +1,6 @@
+For this task I created an educational poster titled “Crypto Trends at a Glance”.
+The goal was to give newcomers an easy, one‑screen overview of the sectors that currently drive innovation (and market narratives) in Web3, while keeping the design friendly and shareable.
+
+Clean, vertical layout (Canva): A phone‑first format that works on Instagram Stories, X posts, and LinkedIn.
+Color‑coded icons: Each trend―AI, RWA, Memecoins, Gaming, L1s, L2s, DeFi―has its own color + minimal icon, so viewers can scan in seconds.
+One‑sentence explainer per trend	: Avoids jargon; answers the “why it matters” question for beginners.
